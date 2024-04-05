@@ -35,13 +35,17 @@ Now that we got that out the way, here are the pictures from my Lab 1:
 
 
 
-## Part 2 VS Code
+## Part 2 VS Code:
 <img width="1450" alt="Screenshot 2024-04-05 at 4 30 01 PM" src="https://github.com/akrovvidi/CSE110-Lab1-SP2024/assets/122575272/c3855651-6ab8-4847-b54d-2cdd0ef843ad">
 
 
 
 
 
+
+
+
+## Part 2 Final Staged Commit .gitignore:
 
 [Adding gitignore and PRIVATE.txt](https://github.com/akrovvidi/CSE110-Lab1-SP2024/blob/main/gitignore%20screenshot.png)
 
