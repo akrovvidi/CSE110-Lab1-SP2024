@@ -39,4 +39,4 @@ Now that we got that out the way, here are the pictures from my Lab 1:
 
 
 
-[Addibng gitignore and PRIVATE.txt](file:///Users/aniruddh/Desktop/Screenshot%202024-04-05%20at%204.30.21%20PM.png)
+[Adding gitignore and PRIVATE.txt](file:///Users/aniruddh/Desktop/Screenshot%202024-04-05%20at%204.30.21%20PM.png)
