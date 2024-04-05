@@ -23,3 +23,20 @@ This is what my daily routine looks like:
 - [ ] Brush Teeth
 - [ ] Eat
 - [x] No shower [gotta continue the CS major stereotype :)]
+
+
+# Lab 1 Tasks
+Now that we got that out the way, here are the pictures from my Lab 1:
+
+
+
+![Part 2 Command line](file:///Users/aniruddh/Desktop/Screenshot%202024-04-05%20at%204.23.15%20PM.png)
+
+
+![Part 2 VS Code](file:///Users/aniruddh/Desktop/Screenshot%202024-04-05%20at%204.26.20%20PM.png)
+
+
+
+
+
+[Addibng gitignore and PRIVATE.txt](file:///Users/aniruddh/Desktop/Screenshot%202024-04-05%20at%204.30.21%20PM.png)
