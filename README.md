@@ -1,1 +1,1 @@
-# CSE110-Lab1-SP2024
+Java is absolutely incredible
