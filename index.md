@@ -1,4 +1,4 @@
 # My User Page
 
-## Introduction
+## **Introduction**
 Hello, My name is Aniruddh Krovvidi and I am a second-year CS major
