@@ -43,4 +43,5 @@ Now that we got that out the way, here are the pictures from my Lab 1:
 
 
 
-[Adding gitignore and PRIVATE.txt](gitignore screenshot.png)
+[Adding gitignore and PRIVATE.txt](https://github.com/akrovvidi/CSE110-Lab1-SP2024/blob/main/gitignore%20screenshot.png)
+
