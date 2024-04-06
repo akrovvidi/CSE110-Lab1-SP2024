@@ -6,9 +6,9 @@ One of my main mottos in life is the following:
 > Hardwork beats talent when talent doesn't work hard.
 
 
-I still remember, to date, the first-ever line I executed: 'System.out.println("Hello World!");'
+I still remember, to date, the first-ever line I executed: `System.out.println("Hello World!");`
 
-The day I decided to be a software engineer, lol. Personally, I am a very passionate programmer who likes to delve deep into each and every line of code there is in a project. This comes at the expense of time and efficiency, but I like to learn and thoroughly examine what's going on in a project. This may sound weird, but I love testing my code or anyone's code. It's so fascinating when I write the hardest tests with the wackiest edge cases, and the code still returns the desired output. This makes me feel so proud as a programmer since it's essentially like creating a foolproof program.
+The day I decided to be a _software engineer_, lol. Personally, I am a very passionate programmer who likes to delve deep into each and every line of code there is in a project. This comes at the expense of time and efficiency, but I like to learn and thoroughly examine what's going on in a project. This may sound weird, but I love testing my code or anyone's code. It's so fascinating when I write the hardest tests with the wackiest edge cases, and the code still returns the desired output. This makes me feel so proud as a programmer since it's essentially like creating a foolproof program.
 
 During my early stages as a Java programmer, I remember constantly referring to this website: [Java Syntax](https://www.w3schools.com/java/java_syntax.asp).
 A bit about me as an indiviudal is I love sports and cars. Here is a list of sports I enjoy watching:
@@ -21,7 +21,7 @@ And, these are my favorite car brands ranked:
 2. Rolls-Royce
 3. Brabus
 
-This is what my daily routine looks like:
+This is what my ***daily routine*** looks like:
 - [ ] Brush Teeth
 - [ ] Eat
 - [x] No shower [gotta continue the CS major stereotype :)]
