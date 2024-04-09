@@ -32,13 +32,13 @@ Now that we got that out the way, here are the pictures from my Lab 1:
 
 
 ## Part 2 Command Line:
+<img width="1240" alt="Screenshot 2024-04-05 at 4 23 15 PM" src="https://github.com/akrovvidi/CSE110-Lab1-SP2024/assets/122575272/6d5015b9-eb2c-4b26-a58e-60bd2cdbb11e">
 
-<img width="1443" alt="Screenshot 2024-04-05 at 4 26 20 PM" src="https://github.com/akrovvidi/CSE110-Lab1-SP2024/assets/122575272/d03c473a-e464-4d7d-8ee5-078807fe7357">
 
 
 
 ## Part 2 VS Code:
-<img width="1450" alt="Screenshot 2024-04-05 at 4 30 01 PM" src="https://github.com/akrovvidi/CSE110-Lab1-SP2024/assets/122575272/c3855651-6ab8-4847-b54d-2cdd0ef843ad">
+<img width="1443" alt="Screenshot 2024-04-05 at 4 26 20 PM" src="https://github.com/akrovvidi/CSE110-Lab1-SP2024/assets/122575272/d03c473a-e464-4d7d-8ee5-078807fe7357">
 
 
 
